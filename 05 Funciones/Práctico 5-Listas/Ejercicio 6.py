@@ -3,5 +3,5 @@
 
 lista = range(10,30,5)
 
-rango_lista = lista[0:1:]
+rango_lista = lista[0:1]
 print(rango_lista)
